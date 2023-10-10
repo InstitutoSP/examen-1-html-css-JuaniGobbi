@@ -17,3 +17,14 @@ nav ul{
 nav li{
     display: inline 20px;
 }
+a{
+    text-decoration: none;
+    color: #333;
+    font-weight: bold
+}
+section{
+    margin-bottom: 20px
+}
+fotos{
+    border: green;
+}
